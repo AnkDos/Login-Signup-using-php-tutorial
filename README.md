@@ -7,10 +7,10 @@ Creating Database and Tables :
 
 ## create database your_database_name;
 ## use database your_database_name;
-##CREATE TABLE `users` (
-  ##id int(20) AUTO_INCREMENT Primary key ,
-  ##username varchar(65) NOT NULL ,
-  ##password varchar(65) NOT NULL ,
-  ##email varchar(65) NOT NULL 
-##);
+## CREATE TABLE `users` (
+  ## id int(20) AUTO_INCREMENT Primary key ,
+  ## username varchar(65) NOT NULL ,
+  ## password varchar(65) NOT NULL ,
+  ## email varchar(65) NOT NULL 
+##    );
 
