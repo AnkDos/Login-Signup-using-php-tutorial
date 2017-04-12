@@ -1,5 +1,5 @@
 <?php
-include('dbconnect.php');
+include('connection_mysqli.php');
 if(isset($_POST['btn']))
 {
 $name=trim($_POST['name']);
