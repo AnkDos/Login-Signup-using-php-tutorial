@@ -3,7 +3,7 @@
 //Created by AnkDos
 session_start(); //starting the session
 ob_start();
-include 'connection.php';    //Creating Connection
+include 'connection_mysqli.php';    //Creating Connection
 if(isset($_POST['button']))    //if the button is set/clicked(in simple word)
 {
 //taking the form values    
